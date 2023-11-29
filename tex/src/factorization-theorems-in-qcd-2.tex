@@ -1,0 +1,60 @@
+\begin{frame}
+  \frametitle{\textbf{Factorization Theorems in QCD}}
+
+  \begin{itemize}
+  \item \textbf{Hard processes in AA} $\to$ \color{blue} short-distance physics \color{black} of partons $\bigotimes$ \color{magenta} Model-dependent energey loss \color{black} of partons in the QGP $\bigotimes$ \color{red} long-distance phyiscs \color{black} of hadrons
+  \end{itemize}
+
+  \
+  
+  \centering Cross-section factorization in AA collisions
+  \begin{align*}
+    d\sigma^{A+A \to h + X} &= \sum_f \color{blue}d\sigma^{A+A \to f + X}_{(\text{vac})} \color{black}\bigotimes \color{magenta} P_f(\Delta E, L, \hat{q}) \color{black} \bigotimes \color{red}D_{f \to h}^{(\text{vac})} (z, \mu_F^2) 
+  \end{align*}
+  \begin{columns}
+    \column{0.6\textwidth}
+    \centering
+    \begin{tikzpicture}
+      \draw[-,blue,middlearrow={>}] (-2,1) to (-0.5366,0.2683);
+      \draw[-,blue,middlearrow={>}] (-2,-1) to (-0.5366,-0.2683);
+      \draw[blue,thick] (0,0) circle (0.6) node[font=\tiny]{$\hat{\sigma}_{ij\to f + k ...}$};
+      \draw[-,blue,middlearrow={>}] (0.5366,0.2683) to (1,0.5);
+      \draw[-,blue,middlearrow={>}] (0.5366,-0.2683) to (1,-0.5);
+      %\draw[rotate=120,blue] (0,0) circle(0.5cm and 0.2cm);
+      \draw[magenta,thick] (1.5,0.75) circle (0.55) node[font=\tiny]{$P_f$};
+      \draw[-,magenta,middlearrow={>}] (1.953,1.05) to (2.453,1.3);
+      \node[font=\tiny,magenta] at (2.2,1.33) {$f$};
+      \node[font=\tiny,blue,align=left] at (0,-0.85) {\textbf{Hard parton} \\ \textbf{scattering}};
+      \node[font=\tiny,magenta,align=left] at (1.5,-0.05) {\textbf{Energy loss} \\ \textbf{model}};
+      \node[font=\tiny,blue,rotate=-26.56] at (-1.4,0.4) {$f_{i/A}(x_1,Q^2)$};
+      \node[font=\tiny,blue,rotate=26.56] at (-1.4,-0.4) {$f_{j/A}(x_2,Q^2)$};
+      \node[font=\tiny,blue] at (-2.1,1) {$i$};
+      \node[font=\tiny,blue] at (-2.1,-1) {$j$};
+      \node[font=\tiny,blue] at (0.75,-0.55) {$k$};
+      \node[font=\tiny,blue] at (0.75,0.55) {$f$};
+      \draw[red,thick] (2.939,1.575) circle (0.55) node[font=\tiny]{$D_{f \to h}$};
+      \draw[-,red,middlearrow={>}] (3.415,1.85) to (4.415,2.35);
+      \node[font=\tiny,red] at (4.4,2.2) {$h$};
+      \draw[-,gray,middlearrow={>}] (2.939,2.125) to (2.939,2.625);
+      \draw[-,gray,middlearrow={>}] (3.489,1.575) to (3.989,1.575);
+      \node[font=\tiny,red,align=left] at (3,0.85) {\textbf{Fragmentation}};
+    \end{tikzpicture}
+    \column{0.4\textwidth}
+    \begin{itemize}
+    \item Factorization theorems unkown for processes embedded in a QGP medium
+    \item Energy loss mechanisms
+      \begin{itemize}
+      \item Collisional energy loss
+        \begin{itemize}
+        \item Elastic scattering with medium
+        \item Dominant for heavy quarks
+        \end{itemize}
+      \item Radiative energy loss
+        \begin{itemize}
+        \item Inelastic scattering with medium (gluon Bremsstrahlung)
+        \item Dominant for light quarks
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \end{columns}
+\end{frame}

@@ -1,0 +1,49 @@
+\begin{frame}
+  \frametitle{\textbf{Factorization Theorems in QCD}}
+  
+  \begin{itemize}
+  \item \textbf{Hard processes in pp} $\to$ \color{blue} short-distance physics \color{black} of partons $\bigotimes$ \color{red} long-distance phyiscs \color{black} of hadrons
+  \end{itemize}
+
+  \
+  
+  \centering Cross-section factorization in pp collisions
+  \begin{align*}
+    d\sigma^{p+p \to h + X} &= \sum_f \color{blue}d\sigma^{p+p \to f + X} \color{black}\bigotimes \color{red}D_{f \to h} (z, \mu_F^2) \\
+    \color{black} &= \sum_{\color{blue}i,j,k\color{black},f,...}\color{blue} f_{i/p}(x_1,Q^2) \bigotimes f_{j/p}(x_2,Q^2) \bigotimes \hat{\sigma}_{ij\to f + k ...} \color{black}\bigotimes \color{red}D_{f \to h} (z, \mu_F^2)
+  \end{align*}
+  \begin{itemize}
+  \item We use hard processes in pp collisions as a reference when we study QGP medium effects
+  \end{itemize}
+  \begin{columns}
+    \column{0.6\textwidth}
+    \centering
+    \begin{tikzpicture}
+      \draw[-,blue,middlearrow={>}] (-2,1) to (-0.5366,0.2683);
+      \draw[-,blue,middlearrow={>}] (-2,-1) to (-0.5366,-0.2683);
+      \draw[blue,thick] (0,0) circle (0.6) node[font=\tiny]{$\hat{\sigma}_{ij\to f + k ...}$};
+      \draw[-,blue,middlearrow={>}] (0.5366,0.2683) to (1,0.5);
+      \draw[-,blue,middlearrow={>}] (0.5366,-0.2683) to (1,-0.5);
+      %\draw[rotate=120,blue] (0,0) circle(0.5cm and 0.2cm);
+      \draw[red,thick] (1.5,0.75) circle (0.55) node[font=\tiny]{$D_{f \to h}$};
+      \draw[-,red,middlearrow={>}] (1.953,1.05) to (2.953,1.55);
+      \draw[-,gray,middlearrow={>}] (1.5,1.3) to (1.5,1.7);
+      \draw[-,gray,middlearrow={>}] (2.05,0.75) to (2.55,0.75);
+      \node[font=\tiny,blue,align=left] at (0,-0.85) {\textbf{Hard parton} \\ \textbf{scattering}};
+      \node[font=\tiny,red,align=left] at (1.5,0.1) {\textbf{Fragmentation}};
+      \node[font=\tiny,blue,rotate=-26.56] at (-1.4,0.4) {$f_{i/p}(x_1,Q^2)$};
+      \node[font=\tiny,blue,rotate=26.56] at (-1.4,-0.4) {$f_{j/p}(x_2,Q^2)$};
+      \node[font=\tiny,red] at (2.9,1.4) {$h$};
+      \node[font=\tiny,blue] at (-2.1,1) {$i$};
+      \node[font=\tiny,blue] at (-2.1,-1) {$j$};
+      \node[font=\tiny,blue] at (0.75,-0.55) {$k$};
+      \node[font=\tiny,blue] at (0.75,0.55) {$f$};
+    \end{tikzpicture}
+    \column{0.4\textwidth}
+    \begin{itemize}
+    \item Cross-section in vacuum is perturbatively calculable!
+    \item Fragmentation is non-perturbative $\to$ must rely on QCD-inspired models
+    \end{itemize}
+  \end{columns}
+  
+\end{frame}
