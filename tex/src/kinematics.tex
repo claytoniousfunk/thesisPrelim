@@ -1,5 +1,5 @@
 \begin{frame}
-  \frametitle{\textbf{Kinematics}}
+  \frametitle{\textbf{Kinematics in Particle Detectors}}
   \begin{columns}
     \column{0.4\textwidth}
     \centering
@@ -23,6 +23,14 @@
       \draw[->] (0,1.2,0) arc [start angle=90,end angle=160,x radius=0.25,y radius=0.5] node[anchor=south east]{\ $\phi$};
       \node[font=\tiny] at (0.7,-0.76) {detector};
       \node[font=\tiny] at (1.65,0.2) {beam axis};
+      %\node[font=\scriptsize] at (-1,2) {\textbf{Detector geometry}};
+    \end{tikzpicture}
+
+    \
+
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.58\textwidth]{Pseudorapidity2.png}};
+      \node[font=\tiny] at (0,-1.3) {\href{https://en.wikipedia.org/wiki/Pseudorapidity}{fig. ref.}};
     \end{tikzpicture}
     \column{0.6\textwidth}
     \begin{itemize}
@@ -39,7 +47,7 @@
     \item Why are these variables common in particle physics experiments?
       \begin{itemize}
       \item $\sum_{i} p_{\text{T},i} = 0 + \epsilon$
-      \item $y$ is invariant for boosts along $z$-axis
+      \item $\Delta y$ is invariant for boosts along $z$-axis
       \end{itemize}
     \end{itemize}
   \end{columns}

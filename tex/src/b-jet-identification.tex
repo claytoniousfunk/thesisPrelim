@@ -1,3 +1,41 @@
 \begin{frame}
   \frametitle{\textbf{$b$-jet Indetification}}
+  \begin{columns}
+    \column{0.5\textwidth}
+    \begin{itemize}
+    \item Many reconstructed objects can be used to discriminate between $b$ and light-jets
+      \begin{itemize}
+      \item Tracks
+      \item Vertices
+      \item Leptons
+      \end{itemize}
+    \item 3D impact paramater (IP)
+      \begin{itemize}
+      \item Track's distance-of-closest-approach to jet-axis
+      \item Positive values: particle travelling along jet-axis
+      \item $b$-quarks tend to have large IP because of longer lifetime
+      \end{itemize}
+    \item Combined-secondary-vertex (CSV) discriminator
+      \begin{itemize}
+      \item Combines vertex (and secondary vertex) information with track-based lifetime info in a complicated algorithm
+      \item $b$-jets tend to contain secondary vertices
+      \end{itemize}
+    \item \textbf{Muon rel-}$\boldmath{p_{\text{T}}}$
+      \begin{itemize}
+      \item Measures muon's transverse momentum relative to jet-axis
+      \item $b$-quarks tend to impart more transverse momentum into daughter muons
+      \end{itemize}
+    \end{itemize}
+    \column{0.5\textwidth}
+    \centering
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.58\textwidth]{b-IP.png}};
+    \end{tikzpicture}
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.58\textwidth]{csv-discriminator.png}};
+    \end{tikzpicture}
+    \begin{tikzpicture}
+      \node{\includegraphics[width=0.58\textwidth]{muon-rel-pt.png}};
+    \end{tikzpicture}
+  \end{columns}
 \end{frame}

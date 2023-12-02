@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  28 NOV 2023 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  1 DEC 2023 06:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,55 +1070,50 @@ Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedove.sty)
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-50.
+53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 150.
+(Font)              scaled to size 8.54997pt on input line 153.
  (./prelim.aux
 (./src/outline.aux) (./src/the-quark-gluon-plasma-title-slide.aux)
-(./src/the-standard-model.aux
-
-LaTeX Warning: Label `th1' multiply defined.
-
-
-LaTeX Warning: Label `th2' multiply defined.
-
-
-LaTeX Warning: Label `th3' multiply defined.
-
-) (./src/quantum-chromodynamics.aux) (./src/deconfinement.aux)
-(./src/phases-of-qcd.aux) (./src/qgp-at-particle-colliders.aux)
-(./src/kinematics.aux) (./src/centrality.aux) (./src/flow-in-the-qgp.aux)
+(./src/the-standard-model.aux) (./src/quantum-chromodynamics.aux)
+(./src/deconfinement.aux) (./src/phases-of-qcd.aux)
+(./src/qgp-at-particle-colliders.aux) (./src/kinematics.aux)
+(./src/centrality.aux) (./src/flow-in-the-qgp.aux)
+(./src/strangeness-enhancement.aux) (./src/charged-particle-suppression.aux)
 (./src/jets-as-probes-of-the-qgp-title-slide.aux)
 (./src/factorization-theorems-in-qcd-1.aux)
-(./src/factorization-theorems-in-qcd-2.aux) (./src/jets.aux)
-(./src/charged-particle-suppression.aux) (./src/jet-suppression.aux)
-(./src/b-jet-identification.aux) (./src/b-jet-measurements-with-cms.aux)
-(./src/muon-pt-rel.aux) (./src/cms-detector.aux) (./src/cms-detector-slice.aux)
-(./src/jet-reconstruction-in-heavy-ion-collisions.aux))
+(./src/factorization-theorems-in-qcd-2.aux) (./src/jets-intro.aux)
+(./src/jets.aux) (./src/jet-suppression.aux)
+(./src/jet-shapes-and-fragmentation.aux) (./src/jet-fragmentation.aux)
+(./src/jet-flavor.aux) (./src/b-jet-measurements-with-cms-title-page.aux)
+(./src/cms-detector.aux) (./src/cms-detector-slice.aux)
+(./src/b-jet-identification.aux) (./src/muon-tagged-jets.aux)
+(./src/muon-rel-pt-template-fitting.aux) (./src/b-jet-result.aux)
+(./src/thank-you.aux))
 \openout1 = `prelim.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 153.
+LaTeX Font Info:    ... okay on input line 153.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1176,7 +1171,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 150.
+Package hyperref Info: Link coloring ON on input line 153.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1189,56 +1184,56 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 150.
-LaTeX Info: Redefining \pageref on input line 150.
-LaTeX Info: Redefining \nameref on input line 150.
+LaTeX Info: Redefining \ref on input line 153.
+LaTeX Info: Redefining \pageref on input line 153.
+LaTeX Info: Redefining \nameref on input line 153.
 
 (./prelim.out) (./prelim.out)
 \@outlinefile=\write5
 \openout5 = `prelim.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 150.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 153.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 150.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 153.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 150.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 150.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 150.
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 150.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 150.
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 150.
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 150.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 150.
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 150.
+(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 150.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 150.
+(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 153.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 150.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 150.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 153.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 150.
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 153.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 150.
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 150.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/phv/b/n --> OT1/phv/b/n on input line 150.
+(Font)                  OT1/phv/b/n --> OT1/phv/b/n on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 150.
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 150.
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 153.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 150.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 153.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1270,58 +1265,58 @@ Package caption Info: End \AtBeginDocument code.
 
 Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices a
 utomatically placed. You can disable this warning by setting /tikzfeynman/warn 
-luatex=false on input line 150.
+luatex=false on input line 153.
 
 (./prelim.nav)
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 150.
+(Font)              scaled to size 4.74998pt on input line 153.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 168.
+(Font)              scaled to size 10.40245pt on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 168.
+(Font)              scaled to size 10.40245pt on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 168.
+(Font)              scaled to size 5.69998pt on input line 171.
 </home/clayton/Documents/nuclear/GroupMeeting/figures/CMSlogo.png, id=14, 289.0
 8pt x 289.08pt>
 File: /home/clayton/Documents/nuclear/GroupMeeting/figures/CMSlogo.png Graphic 
 file (type png)
 <use /home/clayton/Documents/nuclear/GroupMeeting/figures/CMSlogo.png>
 Package pdftex.def Info: /home/clayton/Documents/nuclear/GroupMeeting/figures/C
-MSlogo.png  used on input line 168.
+MSlogo.png  used on input line 171.
 (pdftex.def)             Requested size: 55.31062pt x 55.30952pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 168
+LaTeX Font Info:    Trying to load font information for U+msa on input line 171
 .
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 168
+LaTeX Font Info:    Trying to load font information for U+msb on input line 171
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 168.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 168.
+(Font)              scaled to size 8.54997pt on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 168.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 5.69998pt on input line 168.
+(Font)              scaled to size 5.69998pt on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 168.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 171.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 4.74998pt on input line 168.
+(Font)              scaled to size 4.74998pt on input line 171.
 </home/clayton/Documents/nuclear/GroupMeeting/figures/UIClogo.png, id=16, 1204.
 5pt x 1204.5pt>
 File: /home/clayton/Documents/nuclear/GroupMeeting/figures/UIClogo.png Graphic 
 file (type png)
 <use /home/clayton/Documents/nuclear/GroupMeeting/figures/UIClogo.png>
 Package pdftex.def Info: /home/clayton/Documents/nuclear/GroupMeeting/figures/U
-IClogo.png  used on input line 168.
+IClogo.png  used on input line 171.
 (pdftex.def)             Requested size: 55.31062pt x 55.3029pt.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 3.79999pt on input line 168.
+(Font)              scaled to size 3.79999pt on input line 171.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/clayton/Documents/nu
@@ -1383,19 +1378,19 @@ File: /home/clayton/Documents/nuclear/thesisPrelim/figures/standard-model.jpg G
 raphic file (type jpg)
 <use /home/clayton/Documents/nuclear/thesisPrelim/figures/standard-model.jpg>
 Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/s
-tandard-model.jpg  used on input line 27.
+tandard-model.jpg  used on input line 34.
 (pdftex.def)             Requested size: 224.69995pt x 168.65901pt.
 
-Overfull \hbox (5.69937pt too wide) in paragraph at lines 27--27
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 34--34
 [][]  
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 27.
+(Font)              scaled to size 7.59998pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 27.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 27.
+(Font)              scaled to size 7.59998pt on input line 34.
 [4
 
 
@@ -1502,80 +1497,147 @@ Overfull \vbox (1.28307pt too high) detected at line 99
 
  (./src/deconfinement.tex
 
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 15.
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 56.
 
 
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 15.
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 56.
 
 
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 7.59998pt on input line 56.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 15.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 15.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 15.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
-(Font)              scaled to size 8.54997pt on input line 15.
+(Font)              scaled to size 7.59998pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <6> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 15.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
-(Font)              scaled to size 5.69998pt on input line 15.
+(Font)              scaled to size 5.69998pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <5> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 15.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
-(Font)              scaled to size 4.74998pt on input line 15.
-</home/clayton/Documents/nuclear/thesisPrelim/figures/chiral-susceptibility.png
-, id=178, 921.4425pt x 651.43375pt>
-File: /home/clayton/Documents/nuclear/thesisPrelim/figures/chiral-susceptibilit
-y.png Graphic file (type png)
-<use /home/clayton/Documents/nuclear/thesisPrelim/figures/chiral-susceptibility
-.png>
-Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
-hiral-susceptibility.png  used on input line 15.
-(pdftex.def)             Requested size: 155.56189pt x 109.97688pt.
+(Font)              scaled to size 4.74998pt on input line 56.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 56.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 6.64998pt on input line 56.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-change-alt.png,
+ id=178, 790.955pt x 600.2425pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-change-alt
+.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-change-alt.
+png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/q
+cd-phase-change-alt.png  used on input line 56.
+(pdftex.def)             Requested size: 138.2787pt x 104.9341pt.
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 56.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 56.
+
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/particle-ratios.png, id=1
+79, 829.0975pt x 567.11874pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/particle-ratios.png 
+Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/particle-ratios.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/p
+article-ratios.png  used on input line 56.
+(pdftex.def)             Requested size: 138.2787pt x 94.58301pt.
 [6
 
 
 
 
- </home/clayton/Documents/nuclear/thesisPrelim/figures/chiral-susceptibility.pn
-g>])
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-change-alt.png
+> </home/clayton/Documents/nuclear/thesisPrelim/figures/particle-ratios.png>])
 \openout2 = `src/phases-of-qcd.aux'.
 
  (./src/phases-of-qcd.tex
 </home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-diagram.png, id
-=210, 751.80875pt x 479.7925pt>
+=215, 751.80875pt x 479.7925pt>
 File: /home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-diagram.pn
 g Graphic file (type png)
 <use /home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-diagram.png
 >
 Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/q
-cd-phase-diagram.png  used on input line 15.
-(pdftex.def)             Requested size: 276.55743pt x 176.49548pt.
- [7
+cd-phase-diagram.png  used on input line 39.
+(pdftex.def)             Requested size: 224.69995pt x 143.3971pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-chemical-potential
+-BES.png, id=217, 1662.21pt x 828.09375pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-chemical-pote
+ntial-BES.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-chemical-poten
+tial-BES.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/b
+aryon-chemical-potential-BES.png  used on input line 39.
+(pdftex.def)             Requested size: 120.99551pt x 60.27217pt.
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 39.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 39.
+
+
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-antibaryon-rhic.pn
+g, id=218, 589.20125pt x 541.02126pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-antibaryon-rh
+ic.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-antibaryon-rhi
+c.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/b
+aryon-antibaryon-rhic.png  used on input line 39.
+(pdftex.def)             Requested size: 102.84692pt x 94.43246pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+
+Overfull \vbox (4.54353pt too high) detected at line 39
+ []
+
+[7
 
 
 
 
- </home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-diagram.png>])
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/qcd-phase-diagram.png> <
+/home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-chemical-potential-
+BES.png> </home/clayton/Documents/nuclear/thesisPrelim/figures/baryon-antibaryo
+n-rhic.png>])
 \openout2 = `src/qgp-at-particle-colliders.aux'.
 
  (./src/qgp-at-particle-colliders.tex
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 19.
 </home/clayton/Documents/nuclear/thesisPrelim/figures/collision-stages.png, id=
-240, 1361.085pt x 708.6475pt>
+250, 1361.085pt x 708.6475pt>
 File: /home/clayton/Documents/nuclear/thesisPrelim/figures/collision-stages.png
  Graphic file (type png)
 <use /home/clayton/Documents/nuclear/thesisPrelim/figures/collision-stages.png>
 
 Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
-ollision-stages.png  used on input line 19.
+ollision-stages.png  used on input line 20.
 (pdftex.def)             Requested size: 276.55743pt x 143.98692pt.
-
-[8
+ [8
 
 
 
@@ -1583,35 +1645,86 @@ ollision-stages.png  used on input line 19.
  </home/clayton/Documents/nuclear/thesisPrelim/figures/collision-stages.png>])
 \openout2 = `src/kinematics.aux'.
 
- (./src/kinematics.tex [9
+ (./src/kinematics.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/Pseudorapidity2.png, id=2
+79, 271.0125pt x 220.825pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/Pseudorapidity2.png 
+Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/Pseudorapidity2.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/P
+seudorapidity2.png  used on input line 56.
+(pdftex.def)             Requested size: 80.20036pt x 65.34834pt.
+
+[9
 
 
 
 
-])
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/Pseudorapidity2.png>])
 \openout2 = `src/centrality.aux'.
 
- (./src/centrality.tex [10
+(./src/centrality.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/glauber-collision.png, id
+=309, 980.66376pt x 753.81625pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/glauber-collision.pn
+g Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/glauber-collision.png
+>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/g
+lauber-collision.png  used on input line 25.
+(pdftex.def)             Requested size: 120.99287pt x 92.99605pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/centrality-nch.png, id=31
+1, 630.355pt x 697.60625pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/centrality-nch.png G
+raphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/centrality-nch.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
+entrality-nch.png  used on input line 25.
+(pdftex.def)             Requested size: 112.34996pt x 124.32893pt.
+
+Overfull \vbox (8.20259pt too high) detected at line 25
+ []
+
+[10
 
 
 
 
-])
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/glauber-collision.png> <
+/home/clayton/Documents/nuclear/thesisPrelim/figures/centrality-nch.png>])
 \openout2 = `src/flow-in-the-qgp.aux'.
 
 
 (./src/flow-in-the-qgp.tex
-</home/clayton/Documents/nuclear/thesisPrelim/figures/v2.png, id=322, 621.32124
-pt x 485.815pt>
-File: /home/clayton/Documents/nuclear/thesisPrelim/figures/v2.png Graphic file 
-(type png)
-<use /home/clayton/Documents/nuclear/thesisPrelim/figures/v2.png>
+</home/clayton/Documents/nuclear/thesisPrelim/figures/nuclear-overlap-region-cr
+op.png, id=341, 1402.23875pt x 1051.93pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/nuclear-overlap-regi
+on-crop.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/nuclear-overlap-regio
+n-crop.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/n
+uclear-overlap-region-crop.png  used on input line 65.
+(pdftex.def)             Requested size: 110.62128pt x 82.98438pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/velocity-anisotropy.png, 
+id=342, 1206.5075pt x 648.4225pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/velocity-anisotropy.
+png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/velocity-anisotropy.p
+ng>
 Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/v
-2.png  used on input line 20.
-(pdftex.def)             Requested size: 172.84773pt x 135.14513pt.
+elocity-anisotropy.png  used on input line 65.
+(pdftex.def)             Requested size: 110.62128pt x 59.44385pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/asymmetric-event-display.
+png, id=344, 286.06876pt x 346.29375pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/asymmetric-event-dis
+play.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/asymmetric-event-disp
+lay.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/a
+symmetric-event-display.png  used on input line 65.
+(pdftex.def)             Requested size: 48.39746pt x 58.58382pt.
 
-Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
-[][]  
+Overfull \vbox (1.11565pt too high) detected at line 65
  []
 
 [11
@@ -1619,11 +1732,107 @@ Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
 
 
 
- </home/clayton/Documents/nuclear/thesisPrelim/figures/v2.png>])
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/nuclear-overlap-region-c
+rop.png> </home/clayton/Documents/nuclear/thesisPrelim/figures/velocity-anisotr
+opy.png> </home/clayton/Documents/nuclear/thesisPrelim/figures/asymmetric-event
+-display.png>]
+</home/clayton/Documents/nuclear/thesisPrelim/figures/v2-before-scaling.png, id
+=375, 776.9025pt x 573.14125pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/v2-before-scaling.pn
+g Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/v2-before-scaling.png
+>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/v
+2-before-scaling.png  used on input line 65.
+(pdftex.def)             Requested size: 138.27608pt x 102.00658pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 65--65
+ [][] 
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/v2-after-scaling.png, id=
+377, 762.85pt x 528.97626pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/v2-after-scaling.png
+ Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/v2-after-scaling.png>
+
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/v
+2-after-scaling.png  used on input line 65.
+(pdftex.def)             Requested size: 138.27608pt x 95.88155pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 65--65
+ [][] 
+ []
+
+[12
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/v2-before-scaling.png> <
+/home/clayton/Documents/nuclear/thesisPrelim/figures/v2-after-scaling.png>])
+\openout2 = `src/strangeness-enhancement.aux'.
+
+(./src/strangeness-enhancement.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-production.pn
+g, id=406, 902.37125pt x 811.03pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-producti
+on.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-productio
+n.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/s
+trangeness-production.png  used on input line 38.
+(pdftex.def)             Requested size: 120.99287pt x 108.7418pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-enhancement.p
+ng, id=408, 1254.6875pt x 775.89874pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-enhancem
+ent.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-enhanceme
+nt.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/s
+trangeness-enhancement.png  used on input line 38.
+(pdftex.def)             Requested size: 172.84773pt x 106.8847pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 38--38
+ [][] 
+ []
+
+
+Overfull \vbox (3.31812pt too high) detected at line 38
+ []
+
+[13
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-production.p
+ng> </home/clayton/Documents/nuclear/thesisPrelim/figures/strangeness-enhanceme
+nt.png>])
+\openout2 = `src/charged-particle-suppression.aux'.
+
+ (./src/charged-particle-suppression.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/RAA-neutral-and-charged.p
+ng, id=439, 852.18375pt x 715.67375pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/RAA-neutral-and-char
+ged.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/RAA-neutral-and-charg
+ed.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/R
+AA-neutral-and-charged.png  used on input line 21.
+(pdftex.def)             Requested size: 172.84773pt x 145.15247pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 21--21
+[][]  
+ []
+
+[14
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/RAA-neutral-and-charged.
+png>])
 \openout2 = `src/jets-as-probes-of-the-qgp-title-slide.aux'.
 
-
-(./src/jets-as-probes-of-the-qgp-title-slide.tex [12
+ (./src/jets-as-probes-of-the-qgp-title-slide.tex [15
 
 
 
@@ -1632,7 +1841,7 @@ Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
 \openout2 = `src/factorization-theorems-in-qcd-1.aux'.
 
 
-(./src/factorization-theorems-in-qcd-1.tex [13
+(./src/factorization-theorems-in-qcd-1.tex [16
 
 
 
@@ -1642,63 +1851,225 @@ Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
 
 
 (./src/factorization-theorems-in-qcd-2.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 60.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 60.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 60.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 60.
- [14
+(Font)              scaled to size 6.64998pt on input line 63.
+
+Overfull \vbox (3.11302pt too high) detected at line 63
+ []
+
+[17
 
 
 
 
 ])
+\openout2 = `src/jets-intro.aux'.
+
+ (./src/jets-intro.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 43.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 43.
+
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/jet-quenching.png, id=547
+, 748.7975pt x 707.64375pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/jet-quenching.png Gr
+aphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/jet-quenching.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/j
+et-quenching.png  used on input line 43.
+(pdftex.def)             Requested size: 138.2787pt x 130.67448pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/jet-cross-section-data-vs
+-theory.png, id=549, 1017.8025pt x 694.595pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/jet-cross-section-da
+ta-vs-theory.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/jet-cross-section-dat
+a-vs-theory.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/j
+et-cross-section-data-vs-theory.png  used on input line 43.
+(pdftex.def)             Requested size: 138.2787pt x 94.3598pt.
+
+Overfull \vbox (7.57976pt too high) detected at line 43
+ []
+
+[18
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/jet-quenching.png> </hom
+e/clayton/Documents/nuclear/thesisPrelim/figures/jet-cross-section-data-vs-theo
+ry.png>])
 \openout2 = `src/jets.aux'.
 
- (./src/jets.tex [15
+ (./src/jets.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/cam-aachen.png, id=579, 9
+11.405pt x 666.49pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/cam-aachen.png Graph
+ic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/cam-aachen.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
+am-aachen.png  used on input line 35.
+(pdftex.def)             Requested size: 103.70969pt x 75.83623pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/kt.png, id=580, 911.405pt
+ x 666.49pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/kt.png Graphic file 
+(type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/kt.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/k
+t.png  used on input line 35.
+(pdftex.def)             Requested size: 103.70969pt x 75.83623pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/anti-kt.png, id=581, 911.
+405pt x 666.49pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/anti-kt.png Graphic 
+file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/anti-kt.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/a
+nti-kt.png  used on input line 35.
+(pdftex.def)             Requested size: 103.70969pt x 75.83623pt.
+
+Overfull \vbox (4.22638pt too high) detected at line 35
+ []
+
+[19
 
 
 
 
-])
-\openout2 = `src/charged-particle-suppression.aux'.
-
-
-No file src/charged-particle-suppression.tex.
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/cam-aachen.png> </home/c
+layton/Documents/nuclear/thesisPrelim/figures/kt.png> </home/clayton/Documents/
+nuclear/thesisPrelim/figures/anti-kt.png>])
 \openout2 = `src/jet-suppression.aux'.
 
-No file src/jet-suppression.tex.
-\openout2 = `src/b-jet-identification.aux'.
+ (./src/jet-suppression.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/atlas-jet-raa.png, id=612
+, 1016.79875pt x 777.90625pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/atlas-jet-raa.png Gr
+aphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/atlas-jet-raa.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/a
+tlas-jet-raa.png  used on input line 39.
+(pdftex.def)             Requested size: 172.84773pt x 132.23044pt.
 
-No file src/b-jet-identification.tex.
-\openout2 = `src/b-jet-measurements-with-cms.aux'.
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 39--39
+[][]  
+ []
 
-(./src/b-jet-measurements-with-cms.tex [16
+</home/clayton/Documents/nuclear/thesisPrelim/figures/dijet-asymmetry.png, id=6
+14, 1267.73625pt x 628.3475pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/dijet-asymmetry.png 
+Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/dijet-asymmetry.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/d
+ijet-asymmetry.png  used on input line 39.
+(pdftex.def)             Requested size: 172.84773pt x 85.66698pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 39--39
+[][]  
+ []
+
+[20
 
 
 
 
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/atlas-jet-raa.png> </hom
+e/clayton/Documents/nuclear/thesisPrelim/figures/dijet-asymmetry.png>])
+\openout2 = `src/jet-shapes-and-fragmentation.aux'.
+
+
+(./src/jet-shapes-and-fragmentation.tex
+Overfull \hbox (3.1058pt too wide) detected at line 38
+[]
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/cms-jet-shape.png, id=644
+, 1465.475pt x 677.53125pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-jet-shape.png Gr
+aphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-jet-shape.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
+ms-jet-shape.png  used on input line 38.
+(pdftex.def)             Requested size: 207.41939pt x 95.88754pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 38--38
+ [][] 
+ []
+
+[21
 
 
 
 
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/cms-jet-shape.png>])
+\openout2 = `src/jet-fragmentation.aux'.
+
+
+(./src/jet-fragmentation.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/cms-fragmentation.png, id
+=673, 1045.9075pt x 853.1875pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-fragmentation.pn
+g Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-fragmentation.png
+>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
+ms-fragmentation.png  used on input line 20.
+(pdftex.def)             Requested size: 172.84773pt x 140.99118pt.
+
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 20--20
+[][]  
+ []
+
+[22
 
 
 
 
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/cms-fragmentation.png>])
+\openout2 = `src/jet-flavor.aux'.
 
-])
-\openout2 = `src/muon-pt-rel.aux'.
+ (./src/jet-flavor.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-spectra.png, id=70
+1, 677.53125pt x 627.34375pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-spectra.png G
+raphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-spectra.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/f
+lavor-spectra.png  used on input line 25.
+(pdftex.def)             Requested size: 138.2787pt x 128.03195pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-fraction.png, id=7
+02, 851.18pt x 610.28pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-fraction.png 
+Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-fraction.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/f
+lavor-fraction.png  used on input line 25.
+(pdftex.def)             Requested size: 172.84773pt x 123.92557pt.
 
- (./src/muon-pt-rel.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 10.40245pt on input line 3.
- [17
+Overfull \hbox (5.69936pt too wide) in paragraph at lines 25--25
+[][]  
+ []
+
+[23
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/flavor-spectra.png> </ho
+me/clayton/Documents/nuclear/thesisPrelim/figures/flavor-fraction.png>])
+\openout2 = `src/b-jet-measurements-with-cms-title-page.aux'.
+
+
+(./src/b-jet-measurements-with-cms-title-page.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 4.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 4.
+
+[24
 
 
 
@@ -1706,9 +2077,8 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 ])
 \openout2 = `src/cms-detector.aux'.
 
-
-(./src/cms-detector.tex
-</home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector.png, id=512,
+ (./src/cms-detector.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector.png, id=758,
  9741.39375pt x 6829.515pt>
 File: /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector.png Gra
 phic file (type png)
@@ -1716,7 +2086,7 @@ phic file (type png)
 Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
 ms-detector.png  used on input line 7.
 (pdftex.def)             Requested size: 311.12381pt x 218.11127pt.
- [18
+ [25
 
 
 
@@ -1726,7 +2096,7 @@ ms-detector.png  used on input line 7.
 
  (./src/cms-detector-slice.tex
 </home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector-slice.png, i
-d=541, 1360.08125pt x 904.37875pt>
+d=788, 1360.08125pt x 904.37875pt>
 File: /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector-slice.p
 ng Graphic file (type png)
 <use /home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector-slice.pn
@@ -1734,17 +2104,250 @@ g>
 Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
 ms-detector-slice.png  used on input line 7.
 (pdftex.def)             Requested size: 311.12381pt x 206.87115pt.
- [19
+ [26
 
 
 
 
  </home/clayton/Documents/nuclear/thesisPrelim/figures/cms-detector-slice.png>]
 )
-\openout2 = `src/jet-reconstruction-in-heavy-ion-collisions.aux'.
+\openout2 = `src/b-jet-identification.aux'.
 
 
-(./src/jet-reconstruction-in-heavy-ion-collisions.tex [20
+(./src/b-jet-identification.tex
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 41.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 41.
+
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 8.54997pt on input line 41.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/b-IP.png, id=817, 859.21p
+t x 586.19pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/b-IP.png Graphic fil
+e (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/b-IP.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/b
+-IP.png  used on input line 41.
+(pdftex.def)             Requested size: 100.252pt x 68.38985pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/csv-discriminator.png, id
+=818, 859.21pt x 586.19pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/csv-discriminator.pn
+g Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/csv-discriminator.png
+>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/c
+sv-discriminator.png  used on input line 41.
+(pdftex.def)             Requested size: 100.252pt x 68.38985pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/muon-rel-pt.png, id=819, 
+930.47626pt x 865.2325pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/muon-rel-pt.png Grap
+hic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/muon-rel-pt.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/m
+uon-rel-pt.png  used on input line 41.
+(pdftex.def)             Requested size: 100.252pt x 93.22191pt.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 41.
+
+Overfull \vbox (6.7193pt too high) detected at line 41
+ []
+
+[27
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/b-IP.png> </home/clayton
+/Documents/nuclear/thesisPrelim/figures/csv-discriminator.png> </home/clayton/D
+ocuments/nuclear/thesisPrelim/figures/muon-rel-pt.png>])
+\openout2 = `src/muon-tagged-jets.aux'.
+
+
+(./src/muon-tagged-jets.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/muon-tagged-jet-spectra.p
+ng, id=849, 912.40875pt x 907.39pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/muon-tagged-jet-spec
+tra.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/muon-tagged-jet-spect
+ra.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/m
+uon-tagged-jet-spectra.png  used on input line 30.
+(pdftex.def)             Requested size: 103.70969pt x 103.13615pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/JER-JES.png, id=850, 1161
+.33875pt x 528.97626pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/JER-JES.png Graphic 
+file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/JER-JES.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/J
+ER-JES.png  used on input line 30.
+(pdftex.def)             Requested size: 259.2716pt x 118.09436pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 30--30
+[][]  
+ []
+
+[28
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/muon-tagged-jet-spectra.
+png> </home/clayton/Documents/nuclear/thesisPrelim/figures/JER-JES.png>])
+\openout2 = `src/muon-rel-pt-template-fitting.aux'.
+
+
+(./src/muon-rel-pt-template-fitting.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-pp.png, id=8
+80, 935.495pt x 883.3pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-pp.png 
+Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-pp.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/t
+emplate-fit-pp.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-30-90.p
+ng, id=881, 935.495pt x 883.3pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-30
+-90.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-30-
+90.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/t
+emplate-fit-PbPb-30-90.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-0-30.pn
+g, id=882, 935.495pt x 883.3pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-0-
+30.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-0-3
+0.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/t
+emplate-fit-PbPb-0-30.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-pp.png, id
+=883, 935.495pt x 883.3pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-pp.pn
+g Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-pp.png
+>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/t
+emplate-shape-pp.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-30-90
+.png, id=884, 935.495pt x 883.3pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-
+30-90.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-3
+0-90.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/t
+emplate-shape-PbPb-30-90.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+</home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-0-30.
+png, id=885, 935.495pt x 883.3pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-
+0-30.png Graphic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-0
+-30.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/t
+emplate-shape-PbPb-0-30.png  used on input line 35.
+(pdftex.def)             Requested size: 114.08014pt x 107.70314pt.
+
+Overfull \hbox (5.69937pt too wide) in paragraph at lines 35--35
+[][]  
+ []
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 35.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 35.
+
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
+(Font)              scaled to size 10.40245pt on input line 35.
+[29
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-pp.png> </h
+ome/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-30-90.png>
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/template-fit-PbPb-0-30.p
+ng> </home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-pp.png
+> </home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-PbPb-30-
+90.png> </home/clayton/Documents/nuclear/thesisPrelim/figures/template-shape-Pb
+Pb-0-30.png>])
+\openout2 = `src/b-jet-result.aux'.
+
+ (./src/b-jet-result.tex
+</home/clayton/Documents/nuclear/thesisPrelim/figures/b-purity.png, id=918, 705
+.63625pt x 677.53125pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/b-purity.png Graphic
+ file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/b-purity.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/b
+-purity.png  used on input line 27.
+(pdftex.def)             Requested size: 120.99287pt x 116.17125pt.
+</home/clayton/Documents/nuclear/thesisPrelim/figures/b-fraction.png, id=919, 9
+05.3825pt x 843.15pt>
+File: /home/clayton/Documents/nuclear/thesisPrelim/figures/b-fraction.png Graph
+ic file (type png)
+<use /home/clayton/Documents/nuclear/thesisPrelim/figures/b-fraction.png>
+Package pdftex.def Info: /home/clayton/Documents/nuclear/thesisPrelim/figures/b
+-fraction.png  used on input line 27.
+(pdftex.def)             Requested size: 120.99287pt x 112.67531pt.
+
+Overfull \vbox (9.8149pt too high) detected at line 27
+ []
+
+[30
+
+
+
+
+ </home/clayton/Documents/nuclear/thesisPrelim/figures/b-purity.png> </home/cla
+yton/Documents/nuclear/thesisPrelim/figures/b-fraction.png>])
+\openout2 = `src/thank-you.aux'.
+
+
+(./src/thank-you.tex [31
 
 
 
@@ -1759,56 +2362,58 @@ ms-detector-slice.png  used on input line 7.
 \tf@snm=\write8
 \openout8 = `prelim.snm'.
 
- (./prelim.aux
-(./src/outline.aux) (./src/the-quark-gluon-plasma-title-slide.aux)
-(./src/the-standard-model.aux) (./src/quantum-chromodynamics.aux)
-(./src/deconfinement.aux) (./src/phases-of-qcd.aux)
-(./src/qgp-at-particle-colliders.aux) (./src/kinematics.aux)
-(./src/centrality.aux) (./src/flow-in-the-qgp.aux)
+ (./prelim.aux (./src/outline.aux)
+(./src/the-quark-gluon-plasma-title-slide.aux) (./src/the-standard-model.aux)
+(./src/quantum-chromodynamics.aux) (./src/deconfinement.aux)
+(./src/phases-of-qcd.aux) (./src/qgp-at-particle-colliders.aux)
+(./src/kinematics.aux) (./src/centrality.aux) (./src/flow-in-the-qgp.aux)
+(./src/strangeness-enhancement.aux) (./src/charged-particle-suppression.aux)
 (./src/jets-as-probes-of-the-qgp-title-slide.aux)
 (./src/factorization-theorems-in-qcd-1.aux)
-(./src/factorization-theorems-in-qcd-2.aux) (./src/jets.aux)
-(./src/charged-particle-suppression.aux) (./src/jet-suppression.aux)
-(./src/b-jet-identification.aux) (./src/b-jet-measurements-with-cms.aux)
-(./src/muon-pt-rel.aux) (./src/cms-detector.aux) (./src/cms-detector-slice.aux)
-(./src/jet-reconstruction-in-heavy-ion-collisions.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
+(./src/factorization-theorems-in-qcd-2.aux) (./src/jets-intro.aux)
+(./src/jets.aux) (./src/jet-suppression.aux)
+(./src/jet-shapes-and-fragmentation.aux) (./src/jet-fragmentation.aux)
+(./src/jet-flavor.aux) (./src/b-jet-measurements-with-cms-title-page.aux)
+(./src/cms-detector.aux) (./src/cms-detector-slice.aux)
+(./src/b-jet-identification.aux) (./src/muon-tagged-jets.aux)
+(./src/muon-rel-pt-template-fitting.aux) (./src/b-jet-result.aux)
+(./src/thank-you.aux))
 Package rerunfilecheck Info: File `prelim.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 46000 strings out of 478287
- 1117726 string characters out of 5849289
- 1636208 words of memory out of 5000000
- 63236 multiletter control sequences out of 15000+600000
- 514828 words of font info for 111 fonts, out of 8000000 for 9000
+ 46564 strings out of 478287
+ 1145669 string characters out of 5849289
+ 1639483 words of memory out of 5000000
+ 63681 multiletter control sequences out of 15000+600000
+ 520162 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,20n,122p,386b,2375s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,21n,122p,386b,2375s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb></usr/share/texlive
+e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helve
-tic/uhvro8a.pfb>
-Output written on prelim.pdf (20 pages, 6620552 bytes).
+type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cmextra/cmmib8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
+c/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pf
+b>
+Output written on prelim.pdf (31 pages, 10732974 bytes).
 PDF statistics:
- 688 PDF objects out of 1000 (max. 8388607)
- 591 compressed objects within 6 object streams
- 44 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1077 PDF objects out of 1200 (max. 8388607)
+ 888 compressed objects within 9 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 294 words of extra memory for PDF output out of 10000 (max. 10000000)
 
