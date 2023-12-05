@@ -5,10 +5,6 @@
     \begin{itemize}
     \item \textbf{Quantum chromodynamics} (QCD) is a quantum field theory describing the \textbf{strong interaction} between \textbf{quarks} and \textbf{gluons}
     \item \textbf{Confinement}: fundamental feature of QCD
-      \begin{itemize}
-      \item Strong force grows with separation
-      \item $q\bar{q} \to q\bar{q} + q\bar{q}$ (particles from vacuum)
-      \end{itemize}
       \begin{align*}
         V_{\text{QCD}}(Q^2) = \color{gray}\underbrace{\color{black}-\cfrac{4}{3}\cfrac{\alpha_s(Q^2)}{r}}_{\text{QED-like short-range}} \color{black} + \color{gray} \underbrace{\color{black}\lambda r}_{\text{QCD long-range}}
       \end{align*}
@@ -20,7 +16,7 @@
     \end{align*}
 
     \begin{itemize}
-    \item Large $Q^2 \to$ strong-force coupling gets \textbf{weaker}, potential $V_{\text{QCD}}$ gets \textbf{less attractive}
+    \item Large $Q^2 \to$ strong-force coupling gets \textbf{weaker}
     \end{itemize}
 
 
@@ -42,9 +38,9 @@
       \resizebox{\textwidth}{\textwidth}{
         \begin{tikzpicture}
           \begin{feynman}
-            \vertex (a) {\( f \)};
+            \vertex (a) {\( q \)};
             \vertex[below right=of a] (b);
-            \vertex[below left=of b] (c) {\( f \)};
+            \vertex[below left=of b] (c) {\( q \)};
             \vertex[right=of b] (d) {\( g \)};
             \diagram*{
               (a) -- [fermion] (b),

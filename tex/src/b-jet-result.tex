@@ -3,23 +3,29 @@
   \begin{columns}
     \column{0.5\textwidth}
     \begin{itemize}
-    \item $b$-purity measurements from template fits give us an estimated $b$-jet spectra
-    \item Correct for trigger, muon-reconstruction, and matching efficiency
+    \item $b$-purity measurements from template fits give us an estimated \textbf{$b$-jet spectra}
+    \item Correct for trigger, muon-reconstruction, and muon-tagging
     \item Obtain an inclusive $b$-jet fraction
-    \item Differences in inclusive $b$-jet fraction could indicate mass dependence on jet-quenching
+    \item pp/PbPb differences in $b$-jet fraction could indicate mass dependence on jet-quenching
     \item Work ongoing!
     \end{itemize}
     \column{0.5\textwidth}
     \centering
-    \begin{tikzpicture}
-      \node{\includegraphics[width=0.7\textwidth]{b-purity.png}};
-    \end{tikzpicture}
-
-    \
-
-    \begin{tikzpicture}
-      \node{\includegraphics[width=0.7\textwidth]{b-fraction.png}};
-    \end{tikzpicture}
+    \only<1>{
+      \begin{tikzpicture}
+        \node{\includegraphics[width=1.0\textwidth]{b-purity.png}};
+      \end{tikzpicture}
+    }
+    \only<2>{
+      \begin{tikzpicture}
+        \node{\includegraphics[width=1.0\textwidth]{correction-factors-crop.png}};
+      \end{tikzpicture}
+    }
+    \only<3>{
+      \begin{tikzpicture}
+        \node{\includegraphics[width=1.0\textwidth]{b-fraction.png}};
+      \end{tikzpicture}
+    }
     
   \end{columns}
 
